@@ -1,0 +1,134 @@
+<svg
+  width="830"
+  height="220"
+  viewBox="0 0 830 220"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <style>
+    @keyframes MultiLanguageRankAnimation { from { width: 0px; } to { width: 80px; } }
+    #MultiLanguage-rank-progress { animation: MultiLanguageRankAnimation 1s forwards ease-in-out; }
+    @keyframes LongTimeUserRankAnimation { from { width: 0px; } to { width: 80px; } }
+    #LongTimeUser-rank-progress { animation: LongTimeUserRankAnimation 1s forwards ease-in-out; }
+    @keyframes NewUserRankAnimation { from { width: 0px; } to { width: 80px; } }
+    #NewUser-rank-progress { animation: NewUserRankAnimation 1s forwards ease-in-out; }
+    @keyframes CommitsRankAnimation { from { width: 0px; } to { width: 32.8px; } }
+    #Commits-rank-progress { animation: CommitsRankAnimation 1s forwards ease-in-out; }
+    @keyframes RepositoriesRankAnimation { from { width: 0px; } to { width: 48px; } }
+    #Repositories-rank-progress { animation: RepositoriesRankAnimation 1s forwards ease-in-out; }
+    @keyframes StarsRankAnimation { from { width: 0px; } to { width: 53.3px; } }
+    #Stars-rank-progress { animation: StarsRankAnimation 1s forwards ease-in-out; }
+    @keyframes FollowersRankAnimation { from { width: 0px; } to { width: 17.8px; } }
+    #Followers-rank-progress { animation: FollowersRankAnimation 1s forwards ease-in-out; }
+  </style>
+
+  <!-- MultiLanguage -->
+  <svg x="0" y="0" width="110" height="110" viewBox="0 0 110 110" fill="none">
+    <rect x="0.5" y="0.5" rx="4.5" width="109" height="109" fill="#23272A" fill-opacity="0"/>
+    <defs>
+      <linearGradient id="SECRET1" gradientTransform="rotate(45)">
+        <stop offset="0%" stop-color="#ED4245"/>
+        <stop offset="50%" stop-color="#57F287"/>
+        <stop offset="100%" stop-color="#5865F2"/>
+      </linearGradient>
+    </defs>
+    <svg x="28" y="20" width="100" height="100" viewBox="0 0 30 30" fill="url(#SECRET1)">
+      <path d="M7 10h2v4H7v-4z"/><path d="M10 11c0 .552-.895 1-2 1s-2-.448-2-1 .895-1 2-1 2 .448 2 1z"/><path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/><path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/><circle cx="8" cy="6" r="4" fill="#FFFFFF" /><text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#000000">S</text>
+    </svg>
+    <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="13" fill="#7289DA">MultiLanguage</text>
+    <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10.5" fill="#FFFFFF">Rainbow Lang User</text>
+    <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10" fill="#FFFFFF">5pt</text>
+    <rect x="15" y="101" rx="1" width="80" height="3.2" opacity="0.3" fill="#5865F2"/>
+    <rect id="MultiLanguage-rank-progress" x="15" y="101" rx="1" height="3.2" fill="#5865F2"/>
+  </svg>
+
+  <!-- LongTimeUser -->
+  <svg x="120" y="0" width="110" height="110" viewBox="0 0 110 110" fill="none">
+    <rect x="0.5" y="0.5" rx="4.5" width="109" height="109" fill="#23272A" fill-opacity="0"/>
+    <svg x="28" y="20" width="100" height="100" viewBox="0 0 30 30" fill="url(#SECRET1)">
+      <path d="M7 10h2v4H7v-4z"/><path d="M10 11c0 .552-.895 1-2 1s-2-.448-2-1 .895-1 2-1 2 .448 2 1z"/><path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/><path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/><circle cx="8" cy="6" r="4" fill="#FFFFFF" /><text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#000000">S</text>
+    </svg>
+    <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="13" fill="#7289DA">LongTimeUser</text>
+    <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10.5" fill="#FFFFFF">Village Elder</text>
+    <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10" fill="#FFFFFF">1years</text>
+    <rect x="15" y="101" rx="1" width="80" height="3.2" opacity="0.3" fill="#5865F2"/>
+    <rect id="LongTimeUser-rank-progress" x="15" y="101" rx="1" height="3.2" fill="#5865F2"/>
+  </svg>
+
+  <!-- NewUser -->
+  <svg x="240" y="0" width="110" height="110" viewBox="0 0 110 110" fill="none">
+    <rect x="0.5" y="0.5" rx="4.5" width="109" height="109" fill="#23272A" fill-opacity="0"/>
+    <svg x="28" y="20" width="100" height="100" viewBox="0 0 30 30" fill="url(#SECRET1)">
+      <path d="M7 10h2v4H7v-4z"/><path d="M10 11c0 .552-.895 1-2 1s-2-.448-2-1 .895-1 2-1 2 .448 2 1z"/><path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/><path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/><circle cx="8" cy="6" r="4" fill="#FFFFFF" /><text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#000000">S</text>
+    </svg>
+    <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="13" fill="#7289DA">NewUser</text>
+    <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10.5" fill="#FFFFFF">Started Code</text>
+    <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10" fill="#FFFFFF">After 2020</text>
+    <rect x="15" y="101" rx="1" width="80" height="3.2" opacity="0.3" fill="#5865F2"/>
+    <rect id="NewUser-rank-progress" x="15" y="101" rx="1" height="3.2" fill="#5865F2"/>
+  </svg>
+
+  <!-- Commits -->
+  <svg x="360" y="0" width="110" height="110" viewBox="0 0 110 110" fill="none">
+    <rect x="0.5" y="0.5" rx="4.5" width="109" height="109" fill="#23272A" fill-opacity="0"/>
+    <defs>
+      <linearGradient id="COMMITS_GRAD" gradientTransform="rotate(45)">
+        <stop offset="0%" stop-color="#EB459E"/>
+        <stop offset="100%" stop-color="#ED4245"/>
+      </linearGradient>
+    </defs>
+    <svg x="28" y="20" width="100" height="100" viewBox="0 0 30 30" fill="url(#COMMITS_GRAD)">
+      <path d="M7 10h2v4H7v-4z"/><path d="M10 11c0 .552-.895 1-2 1s-2-.448-2-1 .895-1 2-1 2 .448 2 1z"/><circle cx="8" cy="6" r="4" fill="#FFFFFF" /><text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#000000">A</text>
+    </svg>
+    <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="13" fill="#7289DA">Commits</text>
+    <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10.5" fill="#FFFFFF">High Committer</text>
+    <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10" fill="#FFFFFF">280+ commits</text>
+    <rect x="15" y="101" rx="1" width="80" height="3.2" opacity="0.3" fill="#5865F2"/>
+    <rect id="Commits-rank-progress" x="15" y="101" rx="1" height="3.2" fill="#5865F2"/>
+  </svg>
+
+  <!-- Repositories -->
+  <svg x="480" y="0" width="110" height="110" viewBox="0 0 110 110" fill="none">
+    <rect x="0.5" y="0.5" rx="4.5" width="109" height="109" fill="#23272A" fill-opacity="0"/>
+    <svg x="28" y="20" width="100" height="100" viewBox="0 0 30 30" fill="url(#COMMITS_GRAD)">
+      <path d="M7 10h2v4H7v-4z"/><circle cx="8" cy="6" r="4" fill="#FFFFFF" /><text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#000000">A</text>
+    </svg>
+    <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="13" fill="#7289DA">Repositories</text>
+    <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10.5" fill="#FFFFFF">Repo Creator</text>
+    <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10" fill="#FFFFFF">25+ repos</text>
+    <rect x="15" y="101" rx="1" width="80" height="3.2" opacity="0.3" fill="#5865F2"/>
+    <rect id="Repositories-rank-progress" x="15" y="101" rx="1" height="3.2" fill="#5865F2"/>
+  </svg>
+
+  <!-- Stars -->
+  <svg x="600" y="0" width="110" height="110" viewBox="0 0 110 110" fill="none">
+    <rect x="0.5" y="0.5" rx="4.5" width="109" height="109" fill="#23272A" fill-opacity="0"/>
+    <defs>
+      <linearGradient id="STAR_GRAD" gradientTransform="rotate(45)">
+        <stop offset="0%" stop-color="#5865F2"/>
+        <stop offset="100%" stop-color="#5865F2"/>
+      </linearGradient>
+    </defs>
+    <svg x="28" y="20" width="100" height="100" viewBox="0 0 30 30" fill="url(#STAR_GRAD)">
+      <circle cx="8" cy="6" r="4" fill="#FFFFFF" /><text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#000000">C</text>
+    </svg>
+    <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="13" fill="#7289DA">Stars</text>
+    <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10.5" fill="#FFFFFF">Stargazer</text>
+    <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10" fill="#FFFFFF">7 Stars</text>
+    <rect x="15" y="101" rx="1" width="80" height="3.2" opacity="0.3" fill="#5865F2"/>
+    <rect id="Stars-rank-progress" x="15" y="101" rx="1" height="3.2" fill="#5865F2"/>
+  </svg>
+
+  <!-- Followers -->
+  <svg x="720" y="0" width="110" height="110" viewBox="0 0 110 110" fill="none">
+    <rect x="0.5" y="0.5" rx="4.5" width="109" height="109" fill="#23272A" fill-opacity="0"/>
+    <svg x="28" y="20" width="100" height="100" viewBox="0 0 30 30" fill="url(#STAR_GRAD)">
+      <circle cx="8" cy="6" r="4" fill="#FFFFFF" /><text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#000000">C</text>
+    </svg>
+    <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="13" fill="#7289DA">Followers</text>
+    <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10.5" fill="#FFFFFF">Community</text>
+    <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="bold" font-size="10" fill="#FFFFFF">Active</text>
+    <rect x="15" y="101" rx="1" width="80" height="3.2" opacity="0.3" fill="#5865F2"/>
+    <rect id="Followers-rank-progress" x="15" y="101" rx="1" height="3.2" fill="#5865F2"/>
+  </svg>
+</svg>

@@ -137,7 +137,7 @@ life_philosophy: "Code is poetry, execution is art."
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdarshVasth&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+    <img src="https://github-trophies.vercel.app/?username=AdarshVasth&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
   </a>
   
 </div>
@@ -176,9 +176,9 @@ life_philosophy: "Code is poetry, execution is art."
   
   <br/><br/>
   
-  <!-- Activity Graph -->
+  <!-- Additional Profile Details / Activity Summary -->
   <a href="https://github.com/AdarshVasth">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshVasth&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=%F0%9F%93%8A%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshVasth&theme=tokyonight" width="95%" alt="Profile Details"/>
   </a>
   
 </div>
